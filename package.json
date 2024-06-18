@@ -3,8 +3,8 @@
   "version": "13.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "node init && ng serve",
+    "build": "node init && ng build",
     "test": "ng test",
     "lint": "ng lint"
   },
@@ -48,6 +48,7 @@
     "browser-sync": "^2.29.3",
     "chart.js": "^4.4.0",
     "core-js": "^3.33.3",
+    "dotenv": "^8.2.0",
     "echarts": "^5.4.3",
     "img-comparison-slider": "^8.0.6",
     "jquery": "^3.7.1",
@@ -65,6 +66,7 @@
     "ngx-scrollbar": "^13.0.3",
     "ngx-slick-carousel": "^17.0.0",
     "ngx-toastr": "^18.0.0",
+    "node-fetch": "^3.3.2",
     "rxjs": "~7.8.1",
     "subsink": "^1.0.2",
     "svg-country-flags": "^1.2.10",

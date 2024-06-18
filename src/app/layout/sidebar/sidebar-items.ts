@@ -131,7 +131,7 @@ export const ROUTES: RouteInfo[] = [
         path: '',
         title: 'MENUITEMS.DELIVERIES.TEXT',
         iconType: 'material-icons-outlined',
-        icon: 'assignment',
+        icon: 'local_shipping',
         class: 'menu-toggle',
         groupTitle: false,
         badge: '',
