@@ -54,6 +54,9 @@ Thumbs.db
 .angular
 .angular/cache
 yarn.lock
-.env
 package-lock.json
 ./package-lock.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
